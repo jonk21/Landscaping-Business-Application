@@ -31,3 +31,9 @@ It provides basic functionality for managing customers and calculating landscapi
    ```bash
    git clone https://github.com/your-username/landscape-management-app.git
    cd landscape-management-app
+
+## 📜 License
+This project is provided under an **Educational Use License**.  
+You may view, download, and modify the code for personal learning, but **commercial use or redistribution is not allowed**.  
+See the [LICENSE](LICENSE) file for full details.
+
